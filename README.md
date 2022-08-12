@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Evgeniy! 
 
 ## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 🎉 I love to walking with my wife
+- 💪 I like writing code
+- 🎉 I love walking with my wife
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://
-- 🤹🏽 the road will be mastered by the walking
+- 🤹🏽 knowledge is power
 
 ## My tech stack 🛠
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>   <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=black"/>   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
