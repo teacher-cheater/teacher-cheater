@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Evgeniy! 
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Junoir FrontEnd Developer
 - 💪 I like writing code
 - 🎉 I love walking with my wife
 - 🥅 I am constantly learning new things
