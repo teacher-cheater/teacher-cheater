@@ -28,7 +28,7 @@
 [<img align="left" alt="teacher-cheater | Telegram" width="22px" src="https://user-images.githubusercontent.com/85887160/184384655-1317a1c3-52bb-4a88-87d2-2a7a7c3330b6.svg" />][telegram]
 [<img align="left" alt="teacher-cheater | Discord" width="22px" src="https://user-images.githubusercontent.com/85887160/184385919-e6ae0fd4-0fe2-4eb2-a667-5299259451f6.svg" />][discord]
 
-[<img align="left" alt="teacher-cheater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="teacher-cheater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 [<img align="left" alt="teacher-cheater | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="teacher-cheater | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
@@ -52,6 +52,6 @@
 
 [telegram]: https://t.me/teacher_cheater
 [discord]: teacher_cheater#3139
-[linkedin]: 
+
 [instagram]: https://www.instagram.com/
 [vk]: https://vk.com/id58492281
