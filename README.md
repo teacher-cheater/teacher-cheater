@@ -10,7 +10,6 @@
 ## My tech stack 🛠
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>   <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=black"/>   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 
-### My social networks for communication 📧
 
 
 
@@ -19,10 +18,7 @@
 
 
 
-
-
-
-### Connect with me:
+### 📧 Connect with me:
 
 
 [<img align="left" alt="teacher-cheater | Telegram" width="22px" src="https://user-images.githubusercontent.com/85887160/184384655-1317a1c3-52bb-4a88-87d2-2a7a7c3330b6.svg" />][telegram]
