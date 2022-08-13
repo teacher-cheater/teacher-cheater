@@ -46,7 +46,7 @@
   <a href="teacher_cheater#3139">
   <img align="" alt="teacher-cheater | Discord" width="37px" src="https://user-images.githubusercontent.com/85887160/184511746-355d70e4-1d7c-403c-bbbf-1c5be226fa74.png" />
   </a>  
-  <a href="">
+  <a href="linkedin.com/in/teacher-cheater-482194218">
   <img align="" alt="teacher-cheater | LinkedIn" width="37px" src="https://user-images.githubusercontent.com/85887160/184511751-34b9bd61-c03e-4318-b7c5-71c5460a87d9.png" />
   </a>  
    <a href="https://www.instagram.com/">
