@@ -9,7 +9,7 @@
 - 💪 I like writing code <br/>
 - 🎉 I love walking with my wife <br/>
 - 🥅 I am constantly learning new things <br/>
-- ⚡ I love writing an article for https:// <br/>
+  - ⚡ I love writing an article for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/>
 - 🤹🏽 knowledge is power <br/>
  </div>
 
@@ -35,22 +35,26 @@
 <div align="center"><img align="" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />   <img align="" alt="Webpack" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />   <img align="" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img align="" alt="Mongo DB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />   <img align="" alt="Next JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />   <img align="" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />   <img align="" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />   <img align="" alt="Vue" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /></div>
 
 <hr/>
-  <h3 align="center"> 📧 Connect with me: </h3>
+  <h3 align="center"> 📧 Contact me: </h3>
   <div id="badges" align="center">
   <a href="https://t.me/teacher_cheater">
-    <img align="" alt="teacher-cheater | Telegram" width="37px" src="https://user-images.githubusercontent.com/85887160/184384655-1317a1c3-52bb-4a88-87d2-2a7a7c3330b6.svg" />
-  </a>  
+        <img align="" alt="teacher-cheater | Telegram" width="37px" src="https://user-images.githubusercontent.com/85887160/184511753-6499191d-eb09-4a23-b975-176128e5a0f2.png" />
+  </a>
+    <a href="https://wa.me/qr/WYRCLR752XING1">
+    <img align="" alt="teacher-cheater | WhatsApp" width="37px" src="https://user-images.githubusercontent.com/85887160/184511749-b30db25a-c628-4c0f-a3f9-2e87f57ae2e2.png" />
+  </a> 
   <a href="teacher_cheater#3139">
-    <img align="" alt="teacher-cheater | Discord" width="37px" src="https://user-images.githubusercontent.com/85887160/184385919-e6ae0fd4-0fe2-4eb2-a667-5299259451f6.svg" />
+  <img align="" alt="teacher-cheater | Discord" width="37px" src="https://user-images.githubusercontent.com/85887160/184511746-355d70e4-1d7c-403c-bbbf-1c5be226fa74.png" />
   </a>  
   <a href="">
-    <img align="" alt="teacher-cheater | LinkedIn" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="" alt="teacher-cheater | LinkedIn" width="37px" src="https://user-images.githubusercontent.com/85887160/184511751-34b9bd61-c03e-4318-b7c5-71c5460a87d9.png" />
   </a>  
-    <a href="https://www.instagram.com/">
-    <img align="" alt="teacher-cheater | Instagram" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+   <a href="https://www.instagram.com/">
+   <img align="" alt="teacher-cheater | Instagram" width="37px" src="https://user-images.githubusercontent.com/85887160/184511747-cee2b1ec-b92c-4eab-a95e-185a32f569bc.png" />
   </a>  
-  <a href="https://vk.com/id58492281">
-    <img align="" alt="teacher-cheater | VK" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+   <a href="https://vk.com/id58492281">
+   <img align="" alt="teacher-cheater | VK" width="37px" src="https://user-images.githubusercontent.com/85887160/184511748-47d99259-0d65-4d6b-a982-7fd0c6e1572c.png" />
   </a>
 </div>
+
 
