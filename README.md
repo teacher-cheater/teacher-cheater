@@ -34,7 +34,6 @@
 <h3 align="center"> What I want to study in the future:</h3> 
 <div align="center"><img align="" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />   <img align="" alt="Webpack" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />   <img align="" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img align="" alt="Mongo DB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />   <img align="" alt="Next JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />   <img align="" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />   <img align="" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />   <img align="" alt="Vue" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /></div>
 
-
 <hr/>
   <h3 align="center"> 📧 Connect with me: </h3>
   <div id="badges" align="center">
@@ -50,8 +49,8 @@
     <a href="https://www.instagram.com/">
     <img align="" alt="teacher-cheater | Instagram" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>  
-      <a href="https://vk.com/id58492281">
-      <img align="" alt="teacher-cheater | VK" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <a href="https://vk.com/id58492281">
+    <img align="" alt="teacher-cheater | VK" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
   </a>
 </div>
 
