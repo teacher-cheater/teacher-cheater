@@ -19,10 +19,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/gulp-white?style=for-the-badge&logo=gulp&logoColor=#CF4647"/>
-
-  
   </div>
-<br />
 <br />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teacher-cheater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,14 +30,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teacher-cheater&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br />
-<br />
-
 
 <h3 align="center"> What I want to study in the future:</h3> 
 <div align="center"><img align="" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />   <img align="" alt="Webpack" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />   <img align="" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img align="" alt="Mongo DB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />   <img align="" alt="Next JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />   <img align="" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />   <img align="" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />   <img align="" alt="Vue" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /></div>
 
 
-
+<hr/>
   <h3 align="center"> 📧 Connect with me: </h3>
   <div id="badges" align="center">
   <a href="https://t.me/teacher_cheater">
