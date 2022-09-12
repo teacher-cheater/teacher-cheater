@@ -5,37 +5,107 @@
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
   </div>
   
-  <div align="left">
+<a href="#teacher-cheatern-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=teacher-cheater&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="teacher-    cheater" align="right" />
+</a>
+
 - 💪 I like writing code <br/>
+
 - 🎉 I love walking with my wife <br/>
+
 - 🥅 I am constantly learning new things <br/>
-  - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/>
+
+- ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/>
+
 - 🤹🏽 knowledge is power <br/>
- </div>
+
+<br/>
+
+
 
 <h2 align="center">My tech stack 🛠 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=black"/>   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<!-- <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=black"/>   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/gulp-white?style=for-the-badge&logo=gulp&logoColor=#CF4647"/>
+<img src="https://img.shields.io/badge/gulp-white?style=for-the-badge&logo=gulp&logoColor=#CF4647"/> -->
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+     <td align="center" width="96"> 
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+   <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr> 
+</table>
   </div>
 <br />
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teacher-cheater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teacher-cheater&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-<br/>
+
 <h2 align="center"> 🔥 My Stats : </h2>
 <table>
-  <tr>
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
     </td>
-  </tr>
 </table>
 
 <br />
