@@ -22,17 +22,18 @@
   </div>
 <br />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teacher-cheater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teacher-cheater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teacher-cheater&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <br/>
 <h2 align="center"> 🔥 My Stats : </h2>
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
     </td>
   </tr>
 </table>
