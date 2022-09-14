@@ -4,20 +4,14 @@
   <div align="center"><img src="https://komarev.com/ghpvc/?username=teacher-cheater&style=flat-square&color=blue" alt=""/></div>
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
   </div>
-  
 
 - 💪 I like writing code <br/>
-
 - 🎉 I love walking with my wife <br/>
-
 - 🥅 I am constantly learning new things <br/>
-
 - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/>
-
 - 🤹🏽 knowledge is power <br/>
 
 <br/>
-
 <h2 align="center">My tech stack 🛠 </h2>
 <div align="center">
 <!-- <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=black"/>   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
