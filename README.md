@@ -5,9 +5,6 @@
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
   </div>
   
-<a href="#teacher-cheatern-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=teacher-cheater&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="teacher-    cheater" align="right" />
-</a>
 
 - 💪 I like writing code <br/>
 
@@ -20,8 +17,6 @@
 - 🤹🏽 knowledge is power <br/>
 
 <br/>
-
-
 
 <h2 align="center">My tech stack 🛠 </h2>
 <div align="center">
@@ -104,8 +99,8 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
-      <img height="195px" align="right" alt="teacher-cheater Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
+      <img width="50%" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
+      <img height="200px" align="right" alt="teacher-cheater Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
     </td>
    </tr>
 </table>
@@ -113,8 +108,59 @@
 <br />
 
 <h3 align="center"> What I want to study in the future:</h3> 
-<div align="center"><img align="" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />   <img align="" alt="Webpack" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />   <img align="" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />   <img align="" alt="Mongo DB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />   <img align="" alt="Next JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />   <img align="" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />   <img align="" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />   <img align="" alt="Vue" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /></div>
-
+<div align="center">
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+  </tr>
+</table>
+ 
 <hr/>
   <h3 align="center"> 📧 Contact me: </h3>
   <div id="badges" align="center">
