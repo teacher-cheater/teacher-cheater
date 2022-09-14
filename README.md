@@ -99,8 +99,10 @@
 <table>
   <tr>
     <td>
-      <img width="50%" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
-      <img height="200px" align="right" alt="teacher-cheater Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
+      <img  height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teacher-cheater&theme=vision-friendly-dark" alt="Github stats" />
+      </td>
+     <td>
+      <img  height="200px" align="right" alt="teacher-cheater Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teacher-cheater&theme=vision-friendly-dark&layout=compact" />
     </td>
    </tr>
 </table>
