@@ -8,9 +8,8 @@
 - 💪 I like writing code <br/>
 - 🎉 I love walking with my wife <br/>
 - 🥅 I am constantly learning new things <br/>
-<!-- - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/> -->
 - 🤹🏽 knowledge is power <br/>
-
+<!-- - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/> -->
 <br/>
 <h2 align="center">My tech stack 🛠 </h2>
 <div align="center">
