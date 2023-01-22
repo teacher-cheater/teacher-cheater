@@ -9,6 +9,7 @@
 - 🎉 I love walking with my wife <br/>
 - 🥅 I am constantly learning new things <br/>
 - 🤹🏽 knowledge is power <br/>
+- 📋 [MY REZUME](https://docs.google.com/document/d/1sYdb4qIEAY-7Esw9DUPxODpgjUrSKFtPko6WPwxsZGo/edit?usp=sharing)
 <!-- - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/> -->
 <br/>
 <h2 align="center">My tech stack 🛠 </h2>
