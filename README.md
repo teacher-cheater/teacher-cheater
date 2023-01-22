@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100" />
   <div align="center"><img src="https://komarev.com/ghpvc/?username=teacher-cheater&style=flat-square&color=blue" alt=""/></div>
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
+    <h2><a align="center" href="https://docs.google.com/document/d/1sYdb4qIEAY-7Esw9DUPxODpgjUrSKFtPko6WPwxsZGo/edit?usp=sharing" target="_blank" ><span> 📋 MY REZUME </span></a></h2>
   </div>
 
 - 💪 I like writing code <br/>
 - 🎉 I love walking with my wife <br/>
 - 🥅 I am constantly learning new things <br/>
 - 🤹🏽 knowledge is power <br/>
-- 📋 [MY REZUME](https://docs.google.com/document/d/1sYdb4qIEAY-7Esw9DUPxODpgjUrSKFtPko6WPwxsZGo/edit?usp=sharing)
 <!-- - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/> -->
 <br/>
 <h2 align="center">My tech stack 🛠 </h2>
