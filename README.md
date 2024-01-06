@@ -10,6 +10,7 @@
 - 🎉 I love walking with my wife <br/>
 - 🥅 I am constantly learning new things <br/>
 - 🤹🏽 knowledge is power <br/>
+<!-- - <img height="30px" align="left" alt="teacher-cheater codewars" src="https://www.codewars.com/users/teacher-cheater/badges/large" /> <br/> -->
 <!-- - ⚡ I love writing articles for <a href="https://t.me/teacherCheater">Steps to frontend</a> <br/> -->
 <br/>
 <h2 align="center">My tech stack 🛠 </h2>
