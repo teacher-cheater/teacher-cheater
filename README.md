@@ -367,6 +367,13 @@
       </a>
       <br>TypeScript
     </td>
+        </td>
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="go"/>
+      </a>
+      <br>GO
+    </td>
         <td align="center" width="96">
       <a href="#teacher-cheater-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
