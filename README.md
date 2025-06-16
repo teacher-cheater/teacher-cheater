@@ -170,6 +170,12 @@
       </a>
       <br>Next JS
     </td> -->
+        <td align="center" width="96">
+      <a href="#teacher-cheater-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
  <td align="center" width="110" height="90">
       <a href="#teacher-cheater-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
@@ -403,12 +409,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="Nest JS" />
       </a>
       <br>Nest JS
-    </td>
-    <td align="center" width="96">
-      <a href="#teacher-cheater-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      </a>
-      <br>Vue
     </td>
   </tr>
 </table>
