@@ -228,16 +228,16 @@
   </tr> 
 </table>
 
-> Backend
+<!--  > Backend
 
 <table width='100%'>
   <tr>
-<!--     <td align="center" width="110" height="90"> 
+     <td align="center" width="110" height="90"> 
       <a href="#teacher-cheater-stack" >
         <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
       </a>
       <br>Nest JS
-    </td> -->
+    </td> 
     <td align="center" width="110" height="90"> 
       <a href="#teacher-cheater-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
@@ -278,38 +278,38 @@
     </td>
       
     
-<!--     <td align="center" width="110" height="90">
+     <td align="center" width="110" height="90">
       <a href="#teacher-cheater-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td> -->
-<!--     <td align="center" width="110" height="90">
+    </td> 
+     <td align="center" width="110" height="90">
       <a href="#teacher-cheater-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
-    </td> -->
-<!--      <td align="center" width="110" height="90"> 
+    </td> 
+     <td align="center" width="110" height="90"> 
       <a href="#teacher-cheater-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
-    </td> -->
-<!--       <td align="center" width="110" height="90"> 
+    </td> 
+      <td align="center" width="110" height="90"> 
       <a href="#teacher-cheater-stack" >
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
-    </td> -->
-<!--       <td align="center" width="110" height="90"> 
+    </td> 
+       <td align="center" width="110" height="90"> 
       <a href="#teacher-cheater-stack" >
         <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
       </a>
       <br>tRPC
-    </td> -->
+    </td> 
   </tr> 
-</table>
+</table> -->
 
 <!-- > Other
 
